@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeorgeSunita
+- 👋 Hi, I’m @GeorgeSunita 
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js using Next.js
 - 💞️ I’m looking to collaborate on projects, the front-end part
 - 📫 How to reach me ...
 
