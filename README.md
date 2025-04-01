@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeSunita 
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning React.js using Next.js, TailwindCSS
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning React.js,Next.js and TailwindCSS
 - 💞️ I’m looking to collaborate on projects, the front-end part
 
 
